@@ -1,9 +1,11 @@
 # Data Science & Analytics Portfolio by Sean McConnell
 This portfolio is a compilation of notebooks that I created for data cleaning, analysis, visualization, and machine learning modeling. A complete listing of all notebooks can be found here.
 
-## Standalone Projects
+## SAS Projects
+
 ### Southern Company Predictive Analytics in SAS
 This was a school sponsored project with Southern Company, in which my team took first place. Essentially, Southern Company installed smart meters on a section of their natural gas business, which produced a mountain of structured data. My team utilized SQL within SAS to join multiple tables, cleaned the data, calculated daily usage over the course of a year for unique meter numbers, incorporated historic weather data from a third party source, and created a model to predict gas usage for individual customers. The code was turned over to Southern Company. A LinkedIn post from the sponsoring professor can be found here.
+
 ## Kaggle Projects
 
 ### 2019 NFL Combine ANOVA & Regression in R
