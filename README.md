@@ -1,20 +1,23 @@
 # Data Science & Analytics Portfolio by Sean McConnell
 This portfolio is a compilation of notebooks that I created for data cleaning, analysis, visualization, and machine learning modeling. A complete listing of all notebooks can be found here.
 
-## SAS Projects
+## School Projects
 
 ### Southern Company Predictive Analytics in SAS
 This was a school sponsored project with Southern Company, in which my team took first place. Essentially, Southern Company installed smart meters on a section of their natural gas business, which produced a mountain of structured data. My team utilized SQL within SAS to join multiple tables, cleaned the data, calculated daily usage over the course of a year for unique meter numbers, incorporated historic weather data from a third party source, and created a model to predict gas usage for individual customers. The code was turned over to Southern Company. A LinkedIn post from the sponsoring professor can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:6609995794374373376/).
 
-### Product Longevity Simulation Project
+### Product Longevity Simulation Project in SAS
 [This](https://github.com/smcconn5/Portfolio/blob/master/Projects/Longevity%20Simulation%20Project.pdf) was a end of term class project for statistical modeling in which an electrical engineering firm needed to differentiate between two semiconductor designs where the only difference was longevity of the circuit. Based on the manufacturer longevity distributions, a simulation of 1000 samples was created for each circuit to determine which circuit lasted longer on average.
 
-### 2019 NFL Combine ANOVA & Regression
+### 2019 NFL Combine ANOVA & Regression in SAS
 [This project](https://github.com/smcconn5/Portfolio/blob/master/Projects/2019%20NFL%20Combine%20Analysis.pdf) took the results of the 2019 NFL Combine and performed 2 analyses:
 1.	One-Way ANOVA on hand size by position zone to assess if mean hand size by position zone differed. For the ANOVA model to meet the residual assumptions, a log transformation of hand size was performed.
 2.	Linear regression to see which physical factors impacted 40-yard dash times and create a predictive model. 
 
 This was the first draft of the analysis completed in the 'Kaggle Projects" section during my first semester of the MS in Applied Statistics Program. I updated the analysis using R which came to different conclusions due to more experience, knowledge, and modeling techniques.
+
+### Puzzle Experimental Design Project in Minitab
+[This project](https://github.com/smcconn5/Portfolio/blob/master/Projects/2019%20NFL%20Combine%20Analysis.pdf) challenged me to create, design, execute, and analyze an experiment of my choosing. I decided to measure the time it took to complete puzzles of varying sizes with individuals of different ages to see if either of the factors impacted the pieces solved per minute (PPM).
 
 ## Kaggle Projects
 
