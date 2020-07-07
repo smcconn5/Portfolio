@@ -17,7 +17,7 @@ This was a school sponsored project with Southern Company, in which my team took
 This was the first draft of the analysis completed in the 'Kaggle Projects" section during my first semester of the MS in Applied Statistics Program. I updated the analysis using R which came to different conclusions due to more experience, knowledge, and modeling techniques.
 
 ### Puzzle Experimental Design Project in Minitab
-[This project](https://github.com/smcconn5/Portfolio/blob/master/Projects/2019%20NFL%20Combine%20Analysis.pdf) challenged me to create, design, execute, and analyze an experiment of my choosing. I decided to measure the time it took to complete puzzles of varying sizes with individuals of different ages to see if either of the factors impacted the pieces solved per minute (PPM).
+[This project](https://github.com/smcconn5/Portfolio/blob/master/Projects/Puzzle%20Experimental%20Design%20Project.pdf) challenged me to create, design, execute, and analyze an experiment of my choosing. I decided to measure the time it took to complete puzzles of varying sizes with individuals of different ages to see if either of the factors impacted the pieces solved per minute (PPM).
 
 ## Kaggle Projects
 
