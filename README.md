@@ -21,3 +21,10 @@ This was a school sponsored project with Southern Company, in which my team took
 
 ### Jain University Candidate Placement: Full Analysis in Python
 [This kernel](https://www.kaggle.com/smcconn5/jain-university-candidate-placement-full-analysis) examines at job placement for students at Jain University in Bangalore, India. The analysis begins with a look at certain factors such as: gender, placed or not, degree specialization, prior work experience, and undergraduate degree in relation to the whole population. Next it analyzes placement and salary based on gender lines. Finally, a logistic regression model was built to predict successful placement with 83.3% accuracy on the validation data set.
+
+## Github Projects
+
+### 2016 vs 2020 Voter Registration
+WORK IN PROGRESS
+[Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb)
+
