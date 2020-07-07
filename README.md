@@ -12,7 +12,7 @@ This was a school sponsored project with Southern Company, in which my team took
 ### 2019 NFL Combine ANOVA & Regression in SAS
 [This project](https://github.com/smcconn5/Portfolio/blob/master/Projects/2019%20NFL%20Combine%20Analysis.pdf) took the results of the 2019 NFL Combine and performed 2 analyses:
 1.	One-Way ANOVA on hand size by position zone to assess if mean hand size by position zone differed. For the ANOVA model to meet the residual assumptions, a log transformation of hand size was performed.
-2.	Linear regression to see which physical factors impacted 40-yard dash times and create a predictive model. 
+2.	Linear regression to see which physical factors impacted 40-yard dash times and create a predictive model.
 
 This was the first draft of the analysis completed in the 'Kaggle Projects" section during my first semester of the MS in Applied Statistics Program. I updated the analysis using R which came to different conclusions due to more experience, knowledge, and modeling techniques.
 
@@ -26,7 +26,7 @@ This was the first draft of the analysis completed in the 'Kaggle Projects" sect
 1.	One-Way ANOVA on hand size by position zone to assess if mean hand size by position zone differed. For the ANOVA model to meet the residual assumptions, a log transformation of hand size was performed. Line positions were the only players with a different mean hand size. The remaining positions on the field had statistically similar mean hand sizes.
 2.	Linear regression to see which physical factors impacted 40-yard dash times and create a predictive model. Evidently, weight was the only effect that impacted 40-yard dash times. The model resulted in an R2 of 0.4955 on the training dataset and 0.5677 on the validation data set. The predictive equation was time = 3.806874 + weight*(0.003796).
 
-This is the same project in the SAS section, but updated with more knowledge and modeling techniques due to additional classes.
+This is the same project in the SAS section, but updated with more experience, knowledge, and modeling techniques from additional classes.
 
 ### NYC Real Estate Sales - Modeling with Category Variables in R
 [This kernel](https://www.kaggle.com/smcconn5/nyc-re-sales-modeling-with-category-variables) examined real estate sales in NYC over a 12-month period from September 2016 to September 2017 and focused on one family dwellings. A linear model for sale price was created using sqft, location, and the sqft/location interaction. Since location is a categorical variable, the data was re-coded into binary for Manhattan, Bronx, Brooklyn, and Queens. R2 of 0.642 on the training dataset and 0.650 on the validation data set.
@@ -42,4 +42,3 @@ This is the same project in the SAS section, but updated with more knowledge and
 ### 2016 vs 2020 Voter Registration
 WORK IN PROGRESS
 [Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb)
-
