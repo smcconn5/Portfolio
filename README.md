@@ -39,6 +39,6 @@ This is the same project in the SAS section, but updated with more experience, k
 
 ## Github Projects
 
-### Titanic Survival ML 
+### Titanic Survival Analysis and Machine Learning
  WORK IN PROGRESS
  
