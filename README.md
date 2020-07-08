@@ -39,6 +39,4 @@ This is the same project in the SAS section, but updated with more experience, k
 
 ## Github Projects
 
-### 2016 vs 2020 Voter Registration
 WORK IN PROGRESS
-[Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/Voter%20Registration%20Over%20Time.ipynb)
