@@ -39,4 +39,6 @@ This is the same project in the SAS section, but updated with more experience, k
 
 ## Github Projects
 
-WORK IN PROGRESS
+### Titanic Survival ML 
+ WORK IN PROGRESS
+ 
