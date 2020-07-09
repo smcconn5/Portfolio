@@ -48,4 +48,4 @@ This notebook took a full fledged analysis of the passenger data, as well as uti
   - Support Vector Machines
   - Naive Bayes classifier
   - Decision Tree
-- Random Forest
+  - Random Forest
