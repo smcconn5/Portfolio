@@ -40,5 +40,12 @@ This is the same project in the SAS section, but updated with more experience, k
 ## Github Projects
 
 ### Titanic Survival Analysis and Machine Learning
- WORK IN PROGRESS
- 
+[Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb)
+
+This notebook took a full fledged analysis of the passenger data, as well as utilize supervised machine learning techniques to predict survival based on input factors. The following machine learning models were utilized to predict survival on the test dataset:
+  - Logistic Regression
+  - k-Nearest Neighbors
+  - Support Vector Machines
+  - Naive Bayes classifier
+  - Decision Tree
+  - Random Forest
