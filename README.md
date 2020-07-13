@@ -1,9 +1,8 @@
 # Data Science & Analytics Portfolio by Sean McConnell
 This portfolio is a compilation of notebooks that I created for data cleaning, analysis, visualization, and machine learning modeling. A complete listing of all notebooks can be found here.
 
-## Github Projects
-
-### Titanic Survival Analysis and Machine Learning
+## Machine Learning Projects
+### Titanic Survival Analysis and Machine Learning in Python
 [Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb)
 
 This notebook took a full fledged analysis of the passenger data, as well as utilize supervised machine learning techniques to predict survival based on input factors. The following machine learning models were utilized to predict survival on the test dataset:
@@ -13,8 +12,12 @@ This notebook took a full fledged analysis of the passenger data, as well as uti
   - Naive Bayes classifier
   - Decision Tree
   - Random Forest
+  
+### NYC Real Estate Sales - Modeling with Category Variables in R
+[This kernel](https://www.kaggle.com/smcconn5/nyc-re-sales-modeling-with-category-variables) examined real estate sales in NYC over a 12-month period from September 2016 to September 2017 and focused on one family dwellings. A linear regression model for sale price was created using sqft, location, and the sqft/location interaction. Since location is a categorical variable, the data was re-coded into binary for Manhattan, Bronx, Brooklyn, and Queens. R2 of 0.642 on the training dataset and 0.650 on the validation data set.
 
-## Kaggle Projects
+### Jain University Candidate Placement: Full Analysis in Python
+[This kernel](https://www.kaggle.com/smcconn5/jain-university-candidate-placement-full-analysis) examines at job placement for students at Jain University in Bangalore, India. The analysis begins with a look at certain factors such as: gender, placed or not, degree specialization, prior work experience, and undergraduate degree in relation to the whole population. Next it analyzes placement and salary based on gender lines. Finally, a logistic regression model was built to predict successful placement with 83.3% accuracy on the validation data set.
 
 ### 2019 NFL Combine ANOVA & Regression in R
 [This kernel](https://www.kaggle.com/smcconn5/2019-nfl-combine-anova-regression) took the results of the 2019 NFL Combine and performed 2 analyses:
@@ -23,17 +26,7 @@ This notebook took a full fledged analysis of the passenger data, as well as uti
 
 This is the same project in the SAS section, but updated with more experience, knowledge, and modeling techniques from additional classes.
 
-### NYC Real Estate Sales - Modeling with Category Variables in R
-[This kernel](https://www.kaggle.com/smcconn5/nyc-re-sales-modeling-with-category-variables) examined real estate sales in NYC over a 12-month period from September 2016 to September 2017 and focused on one family dwellings. A linear model for sale price was created using sqft, location, and the sqft/location interaction. Since location is a categorical variable, the data was re-coded into binary for Manhattan, Bronx, Brooklyn, and Queens. R2 of 0.642 on the training dataset and 0.650 on the validation data set.
-
-### Google Play Store Cleaning & Basic Exploration in R
-[This kernel](https://www.kaggle.com/smcconn5/google-play-store-cleaning-basic-exploration) demonstrates what to look for while cleaning data to be used. Data Scientists report that cleaning data takes 75% of their time, so it is essential to know what to look for and how to "clean" it. Once the data was cleaned, limited exploration was performed.
-
-### Jain University Candidate Placement: Full Analysis in Python
-[This kernel](https://www.kaggle.com/smcconn5/jain-university-candidate-placement-full-analysis) examines at job placement for students at Jain University in Bangalore, India. The analysis begins with a look at certain factors such as: gender, placed or not, degree specialization, prior work experience, and undergraduate degree in relation to the whole population. Next it analyzes placement and salary based on gender lines. Finally, a logistic regression model was built to predict successful placement with 83.3% accuracy on the validation data set.
-
 ## School Projects
-
 ### Southern Company Predictive Analytics in SAS
 This was a school sponsored project with Southern Company, in which my team took first place. Essentially, Southern Company installed smart meters on a section of their natural gas business, which produced a mountain of structured data. My team utilized SQL within SAS to join multiple tables, cleaned the data, calculated daily usage over the course of a year for unique meter numbers, incorporated historic weather data from a third party source, and created a model to predict gas usage for individual customers. The code was turned over to Southern Company. A LinkedIn post from the sponsoring professor can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:6609995794374373376/).
 
