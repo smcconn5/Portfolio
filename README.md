@@ -1,7 +1,7 @@
 # Data Science & Analytics Portfolio by Sean McConnell
 This portfolio is a compilation of notebooks that I created for data cleaning, analysis, visualization, and machine learning modeling. A complete listing of all notebooks can be found here.
 
-## Machine Learning Projects
+# Machine Learning Projects
 ### Titanic Survival Analysis and Machine Learning in Python
 [Github](https://github.com/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/smcconn5/Portfolio/blob/master/Projects/.ipynb_checkpoints/Titanic%20Survival%20Analysis%20and%20Machine%20Learning-checkpoint.ipynb)
 
@@ -26,7 +26,7 @@ This notebook took a full fledged analysis of the passenger data, as well as uti
 
 This is the same project in the SAS section, but updated with more experience, knowledge, and modeling techniques from additional classes.
 
-## School Projects
+# School Projects
 ### Southern Company - Predictive Analytics in SAS
 This was a school sponsored project with Southern Company, in which my team took first place. Essentially, Southern Company installed smart meters on a section of their natural gas business, which produced a mountain of structured data. My team utilized SQL within SAS to join multiple tables, cleaned the data, calculated daily usage over the course of a year for unique meter numbers, incorporated historic weather data from a third party source, and created a model to predict gas usage for individual customers. The code was turned over to Southern Company. A LinkedIn post from the sponsoring professor can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:6609995794374373376/).
 
