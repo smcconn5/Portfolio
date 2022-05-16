@@ -27,8 +27,12 @@ This notebook took a full fledged analysis of the passenger data, as well as uti
 This is the same project in the SAS section, but updated with more experience, knowledge, and modeling techniques from additional classes.
 
 ## School Projects
-### Southern Company Predictive Analytics in SAS
+### Southern Company - Predictive Analytics in SAS
 This was a school sponsored project with Southern Company, in which my team took first place. Essentially, Southern Company installed smart meters on a section of their natural gas business, which produced a mountain of structured data. My team utilized SQL within SAS to join multiple tables, cleaned the data, calculated daily usage over the course of a year for unique meter numbers, incorporated historic weather data from a third party source, and created a model to predict gas usage for individual customers. The code was turned over to Southern Company. A LinkedIn post from the sponsoring professor can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:6609995794374373376/).
+
+### Truist Bank - Predicting Commercial Loan Defaults with Analytics 
+This was another school sponsored project with Truist Bank, in which my team tied for first place. Since I was te most senior student in the group, I was nominated as the group leader. We were tasked with analyzing 70M rows of historical commercial loan payment data and qualitative variables to try and predict if a commerical loan would default in the next three months. My team utilzied Python and SAS to clean, analyze, and determine the population for the model. Due to regulatory requirements for the bank, any model had to have easily understandable inputs and outputs, meaning we couldn't use random forest or neural nets, so we determined multiple logistic regression was most appropriate. We used a confusion matrix to analyze the predictive power of the results. The training model resulted in a 70.5% recall rate with a 0.30 cutoff, and the validation model resulted in a 70.4% recall rate with the same cutoff. A LinkedIn post from the sponsoring professor can be found [here] 
+(https://www.linkedin.com/feed/update/urn:li:activity:6873991041985335296/).
 
 ### Product Longevity Simulation Project in SAS
 [This](https://github.com/smcconn5/Portfolio/blob/master/Projects/Longevity%20Simulation%20Project.pdf) was a end of term class project for statistical modeling in which an electrical engineering firm needed to differentiate between two semiconductor designs where the only difference was longevity of the circuit. Based on the manufacturer longevity distributions, a simulation of 1000 samples was created for each circuit to determine which circuit lasted longer on average.
